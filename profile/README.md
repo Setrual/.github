@@ -1,7 +1,7 @@
 ## Welcome to Setrual 👋
 We're Setrual a Minecraft Modding/Plugins Development Organization
 
-### What we are doing ✨️
+### What we are doing 🎀
 We're currently developing a minecraft plugin, swordsteal. A plugin designed like lifesteal, but with swords.
 It has a bunch of different mechcanics, based on lifesteal.
 <!--
